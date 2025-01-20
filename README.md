@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 # Bem-vindo ao Universo de *Enigma Majoris* 🎮💻⚽☕🌌🎵
 
 ## 🧚‍♀	 Eu, por mim mesma
-🖖 ***Vida longa e próspera!*** Eu sou a Majory, mas podem me chamar de Majô.
-
 <img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
+
+🖖 ***Vida longa e próspera!*** Eu sou a Majory, mas podem me chamar de Majô.
 
 👩‍💻 Cientista da Computação, com especialização em Gerenciamento de Projetos, Data Science e Analytics, porque navegar em galáxias de números, cronogramas e gráficos é meu modo de explorar *“onde nenhum humano jamais esteve”*.
 
