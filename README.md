@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🧚‍♀	 Eu, por mim mesma
 
 🖖 ***Vida longa e próspera!*** 
-Eu sou a Majory, mas podem me chamar de Majô.
+Eu sou a Majory, mas posso ser a Majô também.
 <img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
 
 
