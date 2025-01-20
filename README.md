@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## 🧚‍♀	 Eu, por mim mesma
 
 🖖 ***Vida longa e próspera!*** 
-<img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
 Eu sou a Majory, mas podem me chamar de Majô.
+<img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
 
 
 👩‍💻 Cientista da Computação, com especialização em Gerenciamento de Projetos, Data Science e Analytics, porque navegar em galáxias de números, cronogramas e gráficos é meu modo de explorar *“onde nenhum humano jamais esteve”*.
