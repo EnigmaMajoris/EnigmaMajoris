@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## 🧚‍♀	 Eu, por mim mesma
 🖖 ***Vida longa e próspera!*** Eu sou a Majory, mas podem me chamar de Majô.
 
+<img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
+
 👩‍💻 Cientista da Computação, com especialização em Gerenciamento de Projetos, Data Science e Analytics, porque navegar em galáxias de números, cronogramas e gráficos é meu modo de explorar *“onde nenhum humano jamais esteve”*.
 
 🖤🤍 Torcedora fiel do **Sport Club Corinthians** — time que faz da minha vida um paradoxo emocional — aquele sofrimento alegre que só o bando de loucos entende.
@@ -32,4 +34,4 @@ Here are some ideas to get you started:
 
 📊💡Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reimaginar o mundo. 
 
-<img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
+
