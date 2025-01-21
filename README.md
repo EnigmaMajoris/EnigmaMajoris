@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 🧚‍♀	 Eu, por mim mesma
 
-
 <img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
 
 🖖 ***Vida longa e próspera!*** 
@@ -34,4 +33,10 @@ Eu sou a Majory, mas também posso ser a Majô.
 
 📊💡Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reimaginar o mundo.
 
+# 🖥️ Tecnologias
 
+# 🗒️ Metodologias
+
+# 🛠️ Ferramentas
+
+# 🔤 Linguagens
