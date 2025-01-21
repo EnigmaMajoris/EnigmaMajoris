@@ -39,6 +39,7 @@ IBMZ
 
 ### ☁️ Cloud Computing
 Microsoft Azure
+
 AWS
 
 ## 🗒️ Metodologias
@@ -47,10 +48,12 @@ BABOK
 
 ### 📅 Gestão de Projetos, Serviços e Governança
 PMI
+
 ITIL 
 
 ### 👾 Desenvolvimento de Software
 Cascata
+
 Ágil - Scrum e Kaban
 
 ## 🛠️ Ferramentas
