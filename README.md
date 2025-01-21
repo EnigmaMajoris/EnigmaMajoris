@@ -57,7 +57,7 @@ Cascata
 Ágil - Scrum e Kaban
 
 ## 🛠️ Ferramentas
-Jira; Miro; Git; Github; Microsoftware Visio; Microsoft Projet; Octane; 
+Jira; Miro; Git; Github; Microsoft Visio; Microsoft Projet; Octane; 
 
 ##  🔤 Linguagens
 HTML; C++; C#, Cobol, SQL; Python; R
