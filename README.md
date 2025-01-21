@@ -33,10 +33,28 @@ Eu sou a Majory, mas também posso ser a Majô.
 
 📊💡Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reimaginar o mundo.
 
-# 🖥️ Tecnologias
+## 🖥️ Tecnologias
+### 🗄️ Mainframe
+IBMZ
 
-# 🗒️ Metodologias
+### ☁️ Cloud Computing
+Microsoft Azure
+AWS
 
-# 🛠️ Ferramentas
+## 🗒️ Metodologias
+### 📈 Análise de Negócios
+BABOK
 
-# 🔤 Linguagens
+### 📅 Gestão de Projetos, Serviços e Governança
+PMI
+ITIL 
+
+### 👾 Desenvolvimento de Software
+Cascata
+Ágil - Scrum e Kaban
+
+## 🛠️ Ferramentas
+Jira; Miro; Git; Github; Microsoftware Visio; Microsoft Projet; Octane; 
+
+##  🔤 Linguagens
+HTML; C++; C#, Cobol, SQL; Python; R
