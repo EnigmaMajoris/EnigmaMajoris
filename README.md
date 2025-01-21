@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 🧚‍♀	 Eu, por mim mesma
 
+
 <img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/img2.webp" width="50%" height="auto" />
 
 🖖 ***Vida longa e próspera!*** 
