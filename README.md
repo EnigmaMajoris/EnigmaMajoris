@@ -29,7 +29,7 @@ Eu sou a Majory, mas também posso ser a Majô.
 
 🌠🌙 Amo **Astronomia**!!! O Universo é meu lembrete diário de que há ordem no caos. 
 
-☕ Viciada em **Café**, a substância que me mantém funcional enquanto viajo em dobras do tempo (ou apenas tento terminar os projetos). Claro, alguns entram em *loop* e nunca encontram ao final — **“Don’t panic!”**, isso faz parte do processo.
+☕ Viciada em **Café**, a substância que me mantém funcional enquanto viajo em dobras do tempo (ou apenas tento dar fim aos projetos). Claro, alguns entram em *loop* e nunca encontram seu término — **“Don’t panic!”**, isso faz parte do processo.
 
 📊💡Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reimaginar o mundo.
 
