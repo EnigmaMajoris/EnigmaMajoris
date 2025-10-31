@@ -32,9 +32,9 @@ Eu sou a Majory, mas também posso ser a Majô.
 
 📊💡Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reiventar o mundo.
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=enigmamajoris&show_icons=true&theme=buefy&line_height=27&v=5" alt="Enigma Majoris' GitHub Stats" />
-<img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmamajoris&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigmamajoris&show_icons=true&theme=buefy&line_height=27&v=5" alt="Enigma Majoris' GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmamajoris&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## :gear: Tecnologias / Linguagens de Programação / Ferramentas
