@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 #
 <img align="center" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/Github_ReadMe.jpeg" width="auto" height="auto"/>
 
-## *Welcome to Enigma Majoris Universe* || *Bem-vindo(a) ao Universo de Enigma Majoris* 
+## *Enigma Majoris Universe* || *Universo de Enigma Majoris* 
 
 ---
 
