@@ -12,32 +12,61 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Bem-vindo ao Universo de *Enigma Majoris* 🎮💻☕🌌🎵
+# *Enigma Majoris Universe* 🎮💻☕🌌🎵   *Universo de Enigma Majoris*
 
-## 🧚‍♀	 Eu, por mim mesma
+---
 
-<img align="right" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/Github_ReadMe.jpeg" width="45%" height="auto" />
+<table>
+<tr>
+<td width="33%" valign="top">
 
-🖖 ***Vida longa e próspera!*** 
+## 🧚‍♀ Me, Myself & I
+🖖 ***Live long and prosper!***
+
+I'm Majory, but you can also call me Majô.
+
+👩‍💻 **Computer Scientist**, specialized in **Project Management**, **Data Science & Analytics** — because navigating galaxies of numbers, timelines, and charts is my way of exploring *"where no human has gone before."*
+
+🖤🤍 Loyal supporter of **Sport Club Corinthians Paulista** — the team that turns my life into an emotional paradox — that joyful suffering only the "crazy bunch" understands.
+
+🌠🌙 I love **Astronomy**!!! The Universe is my daily reminder that there is order within chaos.
+
+☕ Coffee addict — the substance that keeps me functional while I travel through time warps (or just try to finish projects).
+
+📊💡 This is an ever-expanding Universe, where I play at analyzing data, visualizing it, and reinventing the world.
+
+</td>
+<td width="34%" align="center" valign="middle">
+  <img 
+    src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/Github_ReadMe.jpeg" 
+    width="100%"
+  />
+</td>
+
+<td width="33%" valign="top">
+
+## 🧚‍♀ Eu, por mim mesma
+🖖 ***Vida longa e próspera!***
 
 Eu sou a Majory, mas também posso ser a Majô.
 
-👩‍💻 **Cientista da Computação**, com especialização em **Gerenciamento de Projetos**, **Data Science & Analytics**, porque navegar em galáxias de números, cronogramas e gráficos é meu modo de explorar *“onde nenhum humano jamais esteve”*.
+👩‍💻 **Cientista da Computação**, com especialização em **Gerenciamento de Projetos**, **Data Science & Analytics**, porque navegar em galáxias de números, cronogramas e gráficos é meu modo de explorar *"onde nenhum humano jamais esteve"*.
 
 🖤🤍 Torcedora fiel do **Sport Club Corinthians Paulista** — time que faz da minha vida um paradoxo emocional — aquele sofrimento alegre que só o bando de loucos entende.
 
-🌠🌙 Amo **Astronomia**!!! O Universo é meu lembrete diário de que há ordem no caos. 
+🌠🌙 Amo **Astronomia**!!! O Universo é meu lembrete diário de que há ordem no caos.
 
-☕ Viciada em **Café**, a substância que me mantém funcional enquanto viajo em dobras do tempo (ou apenas tento dar fim aos projetos). 
+☕ Viciada em **Café** — substância que me mantém funcional enquanto viajo em dobras do tempo (ou apenas tento dar fim aos projetos).
 
-📊💡Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reiventar o mundo.
+📊💡 Aqui é um Universo em expansão, onde brinco de analisar dados, visualizá-los e reinventar o mundo.
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigmamajoris&show_icons=true&theme=buefy&line_height=27&v=5" alt="Enigma Majoris' GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmamajoris&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</td>
+</tr>
+</table>
 
-## :gear: Tecnologias / Linguagens de Programação / Ferramentas
+---
+
+## 🛠️ Tecnology and Tools || Tecnologia e Ferramentas
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code>
@@ -53,5 +82,13 @@ Eu sou a Majory, mas também posso ser a Majô.
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></code>
 
+---
 
+## 📊 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigmamajoris&show_icons=true&theme=buefy&line_height=27&v=5" alt="Enigma Majoris' GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmamajoris&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
 
