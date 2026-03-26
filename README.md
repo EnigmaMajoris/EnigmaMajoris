@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## *Enigma Majoris Universe* || *Universo de Enigma Majoris* 
 
----
-
 <table>
 <tr>
 <td width="33%" valign="top">
