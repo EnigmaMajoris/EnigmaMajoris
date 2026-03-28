@@ -79,7 +79,6 @@ Eu sou a Majory, mas também posso ser a Majô.
 
 ## <img align="left" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/githubicon.png" width="32" height="32" />GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigmamajoris&show_icons=true&theme=buefy&line_height=27&v=5" alt="Enigma Majoris' GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmamajoris&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
