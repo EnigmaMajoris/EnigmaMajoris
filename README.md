@@ -79,7 +79,7 @@ Eu sou a Majory, mas também posso ser a Majô.
 
 ## <img align="left" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/githubicon.png" width="32" height="32" />GitHub Stats
 <div align="center">
-<img src="EnigmaMajoris/inspectocat.jpg"/>
+<img align="center" alt="img" src="https://github.com/EnigmaMajoris/EnigmaMajoris/blob/main/inspectocat.jpg" width="auto" height="auto"/>
 </div>
 
 ---
