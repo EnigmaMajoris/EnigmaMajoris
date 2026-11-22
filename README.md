@@ -60,20 +60,19 @@ Eu sou a Majory, mas também posso ser a Majô.
 ---
 
 ## 🛠️ Tecnology and Tools || Tecnologia e Ferramentas
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/confluence.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jira.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoffice.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftvisio.svg"></code>
 
 ---
 
